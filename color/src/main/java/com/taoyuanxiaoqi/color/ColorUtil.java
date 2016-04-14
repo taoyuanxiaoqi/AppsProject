@@ -8,7 +8,7 @@ import android.util.Log;
  */
 public class ColorUtil {
     public static int getConfigColor(){
-        Log.d("hehe","time 7:45.");
-        return Color.YELLOW;
+        Log.d("hehe","time 7:57.");
+        return Color.BLUE;
     }
 }
