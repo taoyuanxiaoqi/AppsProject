@@ -5,6 +5,6 @@ package com.taoyuanxiaoqi.lib;
  */
 public class Utils {
     public static String getVersison(){
-        return "子工程更新4:46 current version is 1.0 稳定版";
+        return "子工程更新5:02 current version is 1.0 稳定版";
     }
 }
