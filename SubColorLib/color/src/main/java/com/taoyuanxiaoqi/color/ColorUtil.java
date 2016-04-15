@@ -8,7 +8,7 @@ import android.util.Log;
  */
 public class ColorUtil {
     public static int getConfigColor(){
-        Log.d("hehe","父工程变更 time 8:06.");
+        Log.d("hehe","master update 4-15 4:11");
         return Color.WHITE;
     }
 }
